@@ -1,8 +1,6 @@
 {
-  "version": "1.0.0",
-  "description": "Monkeh AI Twilight EDITION - Mod Detection Database",
-  "lastUpdated": "2026-07-02",
-  "repository": "https://github.com/YOUR_USERNAME/YOUR_REPO",
+  "version": "1.0.1",
+  "description": "Monksteh AI Mod Checker - Mod Detection Database",
   "mods": {
     "legal": [
       "Monkster Mod Checker",
