@@ -320,7 +320,10 @@
       "iiMenu_Loader",
       "iiMenu_Preferences",
       "Seralyth",
-      "modmenu"
+      "modmenu",
+      "untitled",
+      "shibex",
+      "rexon"
     ],
     "untrusted": [
       "fps-nametags for zlothy",
@@ -389,6 +392,9 @@
     ]
   },
   "displayNameRules": [
+    { "fragment": "untitled", "exactMatch": false, "displayName": "Untitled Mod Menu (Cheat)" },
+    { "fragment": "shibex", "exactMatch": false, "displayName": "Shibex Cheat Menu" },
+    { "fragment": "rexon", "exactMatch": false, "displayName": "Rexon Paid Menu" },
     { "fragment": "monkstermodchecker",    "exactMatch": false, "displayName": "MonkEye Mod Checker" },
     { "fragment": "monkstersmodchecker",   "exactMatch": false, "displayName": "MonkEye Mod Checker" },
     { "fragment": "monkeyemodchecker",     "exactMatch": false, "displayName": "MonkEye Mod Checker" },
