@@ -184,6 +184,9 @@
     ],
     "illegal": [
       "CosmeticX",
+      "org.cubic.gorillatag.void",
+      "malachistemp",
+      "malachis.temp",
       "ColossalCheatMenu",
       "ColossalCheatMenu V2",
       "6p72ly3j85pau2g9mda6ib8px",
