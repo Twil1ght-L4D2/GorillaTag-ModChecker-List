@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Monksteh AI Mod Checker - Mod Detection Database",
   "mods": {
     "legal": [
@@ -13,6 +13,8 @@
       "Body Tracking",
       "Body Estimation",
       "Gorilla Track",
+      "Gorilla Track Packed", // ADDED
+      "Gorilla Track 2.3.0", // ADDED
       "MonkePhone",
       "MP25",
       "MonkeSmartphone",
@@ -170,7 +172,15 @@
       "AvatarSync",
       "EscapeRoom",
       "LobbyUtilsPlus",
-      "GorillaLobby"
+      "GorillaLobby",
+      "github.com/arielthemonke/GorillaCraftAutoBuilder", // ADDED
+      "drowsiiiGorillaInfoBoard", // ADDED
+      "GorillaChatBox", // ADDED
+      "DeeTags", // ADDED
+      "NametagsPlusPlus", // ADDED
+      "GorillaTorsoEstimator", // ADDED
+      "ZlothYDances", // ADDED
+      "ZlothY Dances" // ADDED
     ],
     "illegal": [
       "CosmeticX",
@@ -190,6 +200,7 @@
       "DTAOI",
       "Elixir",
       "void",
+      "Void", // ADDED
       "cronos",
       "ORBIT",
       "ØƦƁƖƬ",
@@ -322,9 +333,18 @@
       "iiMenu_Preferences",
       "Seralyth",
       "modmenu",
-      "untitled",
       "shibex",
-      "rexon"
+      "rexon",
+      "explicit", // ADDED
+      "Explicit", // ADDED
+      "Explicit Menu", // ADDED
+      "https://chqser.lol/", // ADDED
+      "Euphoric", // ADDED
+      "Euphoria", // ADDED
+      "Track Track Track Sahur", // ADDED
+      "R3_MENU", // ADDED
+      "envision build transform flourish", // ADDED
+      "CurrentEmote" // ADDED
     ],
     "untrusted": [
       "fps-nametags for zlothy",
@@ -445,7 +465,12 @@
     { "fragment": "kamestate",             "exactMatch": false, "displayName": "Bark" },
     { "fragment": "barkenabledmodules",    "exactMatch": false, "displayName": "Bark" },
     { "fragment": "barkversion",           "exactMatch": false, "displayName": "Bark" },
-    { "fragment": "barkplayersize",        "exactMatch": false, "displayName": "Bark" }
+    { "fragment": "barkplayersize",        "exactMatch": false, "displayName": "Bark" },
+    { "fragment": "chqser",                "exactMatch": false, "displayName": "Chqser Cheat Menu" }, // ADDED
+    { "fragment": "explicit",              "exactMatch": false, "displayName": "Explicit Cheat Menu" }, // ADDED
+    { "fragment": "r3_menu",               "exactMatch": false, "displayName": "R3 Mod Menu (Cheat)" }, // ADDED
+    { "fragment": "deetags",               "exactMatch": false, "displayName": "Dee Tags" }, // ADDED
+    { "fragment": "nametags++",            "exactMatch": false, "displayName": "Nametags++" } // ADDED
   ],
   "specialKeys": {
     "sakuraa": [
