@@ -3,6 +3,12 @@
   "description": "Monksteh AI Mod Checker - Mod Detection Database",
   "mods": {
     "legal": [
+      "L", //TUP
+      "ThatUtilsPad",
+　    "thatutilspad",
+　    "ThatUtilsPadGui",
+　    "ThatUtilsPadFree",
+      "ThatUtilsPadFreeGui",
       "Monkster Mod Checker",
       "Monksters Mod Checker",
       "MonkEye Mod Checker",
@@ -473,7 +479,12 @@
     { "fragment": "explicit",              "exactMatch": false, "displayName": "Explicit Cheat Menu" }, // ADDED
     { "fragment": "r3_menu",               "exactMatch": false, "displayName": "R3 Mod Menu (Cheat)" }, // ADDED
     { "fragment": "deetags",               "exactMatch": false, "displayName": "Dee Tags" }, // ADDED
-    { "fragment": "nametags++",            "exactMatch": false, "displayName": "Nametags++" } // ADDED
+    { "fragment": "nametags++",            "exactMatch": false, "displayName": "Nametags++" }, // ADDED
+    { "fragment": "L",                     "exactMatch": false, "displayName": "ThatUtilsPad" }, // ADDED
+    { "fragment": "ThatUtilsPad",          "exactMatch": false, "displayName": "ThatUtilsPad" }, // ADDED
+    { "fragment": "ThatUtilsPadFree",      "exactMatch": false, "displayName": "ThatUtilsPad" }, // ADDED
+    { "fragment": "thatutilspad",          "exactMatch": false, "displayName": "ThatUtilsPad" }, // ADDED
+    { "fragment": "ThatUtilsPadGui",       "exactMatch": false, "displayName": "ThatUtilsPad" } // ADDED
   ],
   "specialKeys": {
     "sakuraa": [
