@@ -1,6 +1,21 @@
 {
   "specialPlayers": [
     {
+      "userId": "E04A27F769D1A21D",
+      "label": "MOD MENU HARD CHEAT",
+      "color": "#FF1744"
+    },
+    {
+      "userId": "F8C5014453BD1C0A",
+      "label": "BUG TRACKING + TOXIC",
+      "color": "#FF1744"
+    },
+    {
+      "userId": "9AEDAAC9307F5DB9",
+      "label": "CHEAT VPN",
+      "color": "#FF1744"
+    },
+    {
       "userId": "57060D7FD95A1AC0",
       "label": "TOXIC + RACIST",
       "color": "#FF1744"
