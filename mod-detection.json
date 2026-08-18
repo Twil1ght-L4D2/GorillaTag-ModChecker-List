@@ -481,12 +481,12 @@
     { "fragment": "r3_menu",               "exactMatch": false, "displayName": "R3 Mod Menu (Cheat)" }, // ADDED
     { "fragment": "deetags",               "exactMatch": false, "displayName": "Dee Tags" }, // ADDED
     { "fragment": "nametags++",            "exactMatch": false, "displayName": "Nametags++" }, // ADDED
-    { "fragment": "L",                     "exactMatch": false, "displayName": "ThatUtilsPad" }, // ADDED
+    { "fragment": "L",                     "exactMatch": true, "displayName": "ThatUtilsPad" }, // ADDED
     { "fragment": "ThatUtilsPad",          "exactMatch": false, "displayName": "ThatUtilsPad" }, // ADDED
     { "fragment": "ThatUtilsPadFree",      "exactMatch": false, "displayName": "ThatUtilsPad" }, // ADDED
     { "fragment": "thatutilspad",          "exactMatch": false, "displayName": "ThatUtilsPad" }, // ADDED
     { "fragment": "ThatUtilsPadGui",       "exactMatch": false, "displayName": "ThatUtilsPad" }, // ADDED
-    { "fragment": "1",                     "exactMatch": false, "displayName": "Dark Mod menu" } // ADDED
+    { "fragment": "1",                     "exactMatch": true, "displayName": "Dark Mod menu" } // ADDED
   ],
   "specialKeys": {
     "sakuraa": [
@@ -506,12 +506,13 @@
       "creationdate", "created", "userid", "user", "id", "nickname", "name",
       "username", "quest", "meta", "oculus", "steam", "pc", "pcvr", "unknown"
     ],
-    "keyFragments": [
-      "photon", "actor", "room", "queue", "gamemode",
-      "firstlogin", "account", "login", "playerid", "session",
-      "device", "region", "hash", "auth", "voice",
-      "systemcollections", "systemstring", "systemobject", "generic"
-    ]
+  "keyFragments": [
+    "photon", "actor", "room", "queue", "gamemode",
+    "firstlogin", "account", "login", "playerid", "session",
+    "device", "region", "hash", "auth", "voice",
+    "systemcollections", "systemstring", "systemobject", "generic",
+    "mothership"
+  ]
   },
   "hiddenModListEntries": [
     "didtutorial",
