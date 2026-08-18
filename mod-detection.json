@@ -485,7 +485,7 @@
     { "fragment": "ThatUtilsPad",          "exactMatch": false, "displayName": "ThatUtilsPad" }, // ADDED
     { "fragment": "ThatUtilsPadFree",      "exactMatch": false, "displayName": "ThatUtilsPad" }, // ADDED
     { "fragment": "thatutilspad",          "exactMatch": false, "displayName": "ThatUtilsPad" }, // ADDED
-    { "fragment": "ThatUtilsPadGui",       "exactMatch": false, "displayName": "ThatUtilsPad" } // ADDED
+    { "fragment": "ThatUtilsPadGui",       "exactMatch": false, "displayName": "ThatUtilsPad" }, // ADDED
     { "fragment": "1",                     "exactMatch": false, "displayName": "Dark Mod menu" } // ADDED
   ],
   "specialKeys": {
