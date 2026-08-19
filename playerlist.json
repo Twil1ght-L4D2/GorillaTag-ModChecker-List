@@ -1,6 +1,11 @@
 {
   "specialPlayers": [
     {
+      "userId": "6D1E1F967F3542FB",
+      "label": "CHEATER MOD MENU",
+      "color": "#FF1744"
+    },
+    {
       "userId": "E04A27F769D1A21D",
       "label": "MOD MENU HARD CHEAT",
       "color": "#FF1744"
