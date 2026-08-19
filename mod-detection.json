@@ -88,7 +88,6 @@
       "GorillaAmongUs",
       "imposter",
       "cheese is gouda",
-      "I like cheese",
       "GorillaDrift",
       "using gorilladrift",
       "FPS-Nametags for Zlothy",
@@ -185,9 +184,13 @@
       "NametagsPlusPlus", // ADDED
       "GorillaTorsoEstimator", // ADDED
       "ZlothYDances", // ADDED
-      "ZlothY Dances" // ADDED
+      "ZlothY Dances", // ADDED
+      "monkehavocversion",
+      "GS"
     ],
     "illegal": [
+      "I like cheese",
+      "dark",
       "Galaxy",
       "1",
       "CosmeticX",
