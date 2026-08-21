@@ -1,6 +1,16 @@
 {
   "specialPlayers": [
     {
+      "userId": "F9202E029BD6D423",
+      "label": "CHEATER | WALKSIM",
+      "color": "#FF1744"
+    },
+    {
+      "userId": "A48390F252AB7E3B",
+      "label": "CHEATER |FLY",
+      "color": "#FF1744"
+    },
+    {
       "userId": "E743A7B9ADBF06A8",
       "label": "CHEATER LOW HZ",
       "color": "#FF1744"
