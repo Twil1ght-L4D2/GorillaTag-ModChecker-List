@@ -1,6 +1,21 @@
 {
   "specialPlayers": [
     {
+      "userId": "E743A7B9ADBF06A8",
+      "label": "CHEATER LOW HZ",
+      "color": "#FF1744"
+    },
+    {
+      "userId": "C16EFC69AA28E580",
+      "label": "CHEATER MOD MENU",
+      "color": "#FF1744"
+    },
+    {
+      "userId": "EAF13A4A85AFE524",
+      "label": "BUG TRACKING LONG ARM",
+      "color": "#FF1744"
+    },
+    {
       "userId": "8BB36E952DBA0719",
       "label": "CHEATER ADB. Mooned ?",
       "color": "#FF1744"
