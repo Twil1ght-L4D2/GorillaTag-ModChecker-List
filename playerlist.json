@@ -1,6 +1,16 @@
 {
   "specialPlayers": [
     {
+      "userId": "BA197DEB31B43D2F",
+      "label": "CHEATER | WALKSIM",
+      "color": "#FF1744"
+    },
+    {
+      "userId": "C1ED079B52075CC9",
+      "label": "CHEATER | ADB MOONLIGHT",
+      "color": "#FF1744"
+    },
+    {
       "userId": "134B57BFA204E848",
       "label": "CHEATER | MOD MENU | TENTE DE LAG TWILIGHT MDR",
       "color": "#FF1744"
