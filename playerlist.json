@@ -1,6 +1,21 @@
 {
   "specialPlayers": [
     {
+      "userId": "C54B3676F7C75438",
+      "label": "CHEATER HIGH PREDS",
+      "color": "#FF1744"
+    },
+    {
+      "userId": "3534D77857E2CDD6",
+      "label": "TOXIC",
+      "color": "#FF1744"
+    },
+    {
+      "userId": "C40858F155D7160A",
+      "label": "CHEATER MOD MENU",
+      "color": "#FF1744"
+    },
+    {
       "userId": "963D0168C694D3A8",
       "label": "TOXIC",
       "color": "#FF1744"
