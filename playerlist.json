@@ -1,6 +1,11 @@
 {
   "specialPlayers": [
     {
+      "userId": "963D0168C694D3A8",
+      "label": "TOXIC",
+      "color": "#FF1744"
+    },
+    {
       "userId": "2063A4F06820D178",
       "label": "HARD TOXIC",
       "color": "#FF1744"
@@ -32,7 +37,7 @@
     },
     {
       "userId": "F9202E029BD6D423",
-      "label": "CHEATER | WALKSIM",
+      "label": "CHEATER | WALKSIM JUUL MOD MENU",
       "color": "#FF1744"
     },
     {
