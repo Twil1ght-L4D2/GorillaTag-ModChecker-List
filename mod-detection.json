@@ -3,9 +3,8 @@
   "description": "Yorha Checker - Mod Detection Database",
   "mods": {
     "legal": [
-      "L", //TUP
+      "L",
       "ThatUtilsPad",
-      "thatutilspad",
       "ThatUtilsPadGui",
       "ThatUtilsPadFreeGui",
       "Monkster Mod Checker",
@@ -18,8 +17,8 @@
       "Body Tracking",
       "Body Estimation",
       "Gorilla Track",
-      "Gorilla Track Packed", // ADDED
-      "Gorilla Track 2.3.0", // ADDED
+      "Gorilla Track Packed",
+      "Gorilla Track 2.3.0",
       "MonkePhone",
       "MP25",
       "MonkeSmartphone",
@@ -31,11 +30,9 @@
       "BarkVersion",
       "BarkPlayerSize",
       "Bark",
-      "MonkeClick",
       "Monke Click",
       "Monke Click CI",
       "Monke Realism",
-      "MonkeRealism",
       "MonkeHavoc",
       "github.com/ZlothY29IQ/MonkeClick",
       "github.com/ZlothY29IQ/MonkeClick-CI",
@@ -49,7 +46,6 @@
       "InfoWatch",
       "GorillaInfoWatch",
       "GorillaStats",
-      "gorillastats",
       "BoyDoILoveInformation Public",
       "WhoIsCheating",
       "HP_Left",
@@ -80,7 +76,6 @@
       "gorp",
       "gtrials",
       "GorillaTrial",
-      "tictactoe",
       "TicTacToe",
       "KittyGui",
       "KittyInfoSync",
@@ -90,7 +85,6 @@
       "cheese is gouda",
       "GorillaDrift",
       "using gorilladrift",
-      "FPS-Nametags for Zlothy",
       "Zlothy FPS Tags",
       "github.com/ZlothY29IQ/Zloth-RecRoomRig",
       "Zloth Rec Room Rig",
@@ -104,7 +98,6 @@
       "ShirtProperties",
       "GorillaShirts",
       "GorillaShirtsFeb26",
-      "CosmeticX",
       "CosmeticXT",
       "Kosmetics",
       "KosmeticsPro",
@@ -177,14 +170,13 @@
       "EscapeRoom",
       "LobbyUtilsPlus",
       "GorillaLobby",
-      "github.com/arielthemonke/GorillaCraftAutoBuilder", // ADDED
-      "drowsiiiGorillaInfoBoard", // ADDED
-      "GorillaChatBox", // ADDED
-      "DeeTags", // ADDED
-      "NametagsPlusPlus", // ADDED
-      "GorillaTorsoEstimator", // ADDED
-      "ZlothYDances", // ADDED
-      "ZlothY Dances", // ADDED
+      "github.com/arielthemonke/GorillaCraftAutoBuilder",
+      "drowsiiiGorillaInfoBoard",
+      "GorillaChatBox",
+      "DeeTags",
+      "NametagsPlusPlus",
+      "GorillaTorsoEstimator",
+      "ZlothY Dances",
       "monkehavocversion",
       "GS"
     ],
@@ -212,8 +204,7 @@
       "DTASLOI",
       "DTAOI",
       "Elixir",
-      "void",
-      "Void", // ADDED
+      "Void",
       "cronos",
       "ORBIT",
       "ØƦƁƖƬ",
@@ -229,7 +220,6 @@
       "zlothymenu",
       "ShibaGTMenu",
       "ShibaGTMod",
-      "shibagtmenu",
       "shibagtv2",
       "ShibaGTPurple",
       "ShibaGTLight",
@@ -249,9 +239,7 @@
       "Oblivion",
       "Resurgence",
       "eyerock reborn",
-      "asteroidlite",
       "Asteroid Lite",
-      "elux",
       "Elux",
       "cokecosmetics",
       "Coke Cosmetx",
@@ -260,9 +248,7 @@
       "Atlas",
       "Juul",
       "BananaOS",
-      "BANANAOS",
       "ColossalCheatMenu V3",
-      "ColossalCheatMenuV3",
       "CCM_V3",
       "voidmenu",
       "void_menu_open",
@@ -287,7 +273,6 @@
       "atlasreborn",
       "AsteroidLiteV2",
       "AsteroidPro",
-      "Asteroid Lite V2",
       "asteroid_plus",
       "oblivionpro",
       "oblivionrebirth",
@@ -320,7 +305,6 @@
       "ShibaGT Premium",
       "ShibaGTSigma",
       "EluxPro",
-      "eluxv2",
       "EluxV2",
       "EluxMenu",
       "ObsidianPlus",
@@ -336,7 +320,6 @@
       "Zenith",
       "zenithmenu",
       "FrizMod",
-      "frizmod",
       "SeralythPro",
       "seralythv2",
       "seralythium",
@@ -348,16 +331,14 @@
       "modmenu",
       "shibex",
       "rexon",
-      "explicit", // ADDED
-      "Explicit", // ADDED
-      "Explicit Menu", // ADDED
-      "https://chqser.lol/", // ADDED
-      "Euphoric", // ADDED
-      "Euphoria", // ADDED
-      "Track Track Track Sahur", // ADDED
-      "R3_MENU", // ADDED
-      "envision build transform flourish", // ADDED
-      "CurrentEmote" // ADDED
+      "Explicit Menu",
+      "https://chqser.lol/",
+      "Euphoric",
+      "Euphoria",
+      "Track Track Track Sahur",
+      "R3_MENU",
+      "envision build transform flourish",
+      "CurrentEmote"
     ],
     "untrusted": [
       "fps-nametags for zlothy",
@@ -367,7 +348,6 @@
       "ShibaGT",
       "BarkMenu",
       "YBA",
-      "Too Much Info",
       "TooMuchInfo",
       "Za5fih",
       "LBjubZwL9",
@@ -429,67 +409,67 @@
     { "fragment": "untitled", "exactMatch": false, "displayName": "Untitled Mod Menu (Cheat)" },
     { "fragment": "shibex", "exactMatch": false, "displayName": "Shibex Cheat Menu" },
     { "fragment": "rexon", "exactMatch": false, "displayName": "Rexon Paid Menu" },
-    { "fragment": "monkstermodchecker",    "exactMatch": false, "displayName": "MonkEye Mod Checker" },
-    { "fragment": "monkstersmodchecker",   "exactMatch": false, "displayName": "MonkEye Mod Checker" },
-    { "fragment": "monkeyemodchecker",     "exactMatch": false, "displayName": "MonkEye Mod Checker" },
-    { "fragment": "betternametag",         "exactMatch": false, "displayName": "BetterNametags" },
-    { "fragment": "kigui",                 "exactMatch": false, "displayName": "Kitty Info" },
-    { "fragment": "kittygui",              "exactMatch": false, "displayName": "Kitty Info" },
-    { "fragment": "kittyinfo",             "exactMatch": false, "displayName": "Kitty Info" },
-    { "fragment": "cosmeticx",             "exactMatch": false, "displayName": "CosmeticX" },
-    { "fragment": "cosmeitcx",             "exactMatch": false, "displayName": "CosmeticX" },
-    { "fragment": "fpsnametagsforzlothy",  "exactMatch": false, "displayName": "FPS Nametags / Not Trusted Creator" },
+    { "fragment": "monkstermodchecker", "exactMatch": false, "displayName": "MonkEye Mod Checker" },
+    { "fragment": "monkstersmodchecker", "exactMatch": false, "displayName": "MonkEye Mod Checker" },
+    { "fragment": "monkeyemodchecker", "exactMatch": false, "displayName": "MonkEye Mod Checker" },
+    { "fragment": "betternametag", "exactMatch": false, "displayName": "BetterNametags" },
+    { "fragment": "kigui", "exactMatch": false, "displayName": "Kitty Info" },
+    { "fragment": "kittygui", "exactMatch": false, "displayName": "Kitty Info" },
+    { "fragment": "kittyinfo", "exactMatch": false, "displayName": "Kitty Info" },
+    { "fragment": "cosmeticx", "exactMatch": false, "displayName": "CosmeticX" },
+    { "fragment": "cosmeitcx", "exactMatch": false, "displayName": "CosmeticX" },
+    { "fragment": "fpsnametagsforzlothy", "exactMatch": false, "displayName": "FPS Nametags / Not Trusted Creator" },
     { "fragment": "fpsnametagesforzlothy", "exactMatch": false, "displayName": "FPS Nametags / Not Trusted Creator" },
-    { "fragment": "ylookininherewei",      "exactMatch": false, "displayName": "Malachi Menu Reborn" },
-    { "fragment": "1ylookininherewei",     "exactMatch": false, "displayName": "Malachi Menu Reborn" },
-    { "fragment": "hgrehngio",             "exactMatch": false, "displayName": "Malachi Menu Reborn" },
-    { "fragment": "1y u lookin in here weirdo",  "exactMatch": false, "displayName": "Malachi Menu Reborn" },
-    { "fragment": "y u lookin in here weirdo",   "exactMatch": false, "displayName": "Malachi Menu Reborn" },
-    { "fragment": "hgrehngio889584739_hugb",     "exactMatch": false, "displayName": "Malachi Menu Reborn" },
-    { "fragment": "dtasloi",               "exactMatch": false, "displayName": "DTASLOI" },
-    { "fragment": "dtaoi",                 "exactMatch": true,  "displayName": "DTASLOI" },
-    { "fragment": "genesis",               "exactMatch": true,  "displayName": "Genesis" },
-    { "fragment": "void",                  "exactMatch": true,  "displayName": "Void" },
-    { "fragment": "colossal",              "exactMatch": false, "displayName": "ColossalCheatMenu V2" },
-    { "fragment": "6p72ly3",               "exactMatch": false, "displayName": "ColossalCheatMenu V2" },
-    { "fragment": "6xpyykmr",              "exactMatch": false, "displayName": "ColossalCheatMenu V2" },
-    { "fragment": "monkephone",            "exactMatch": false, "displayName": "MonkePhone" },
-    { "fragment": "monkesmartphone",       "exactMatch": false, "displayName": "MonkePhone" },
-    { "fragment": "mp25",                  "exactMatch": true,  "displayName": "MonkePhone" },
-    { "fragment": "gorillawatch",          "exactMatch": false, "displayName": "Gorilla Info Watch" },
-    { "fragment": "infowatch",             "exactMatch": false, "displayName": "Gorilla Info Watch" },
-    { "fragment": "gorillainfowatch",      "exactMatch": false, "displayName": "Gorilla Info Watch" },
-    { "fragment": "gorillastats",          "exactMatch": false, "displayName": "GorillaStats" },
-    { "fragment": "gorillacraft",          "exactMatch": false, "displayName": "GorillaCraft" },
-    { "fragment": "gorillacinema",         "exactMatch": false, "displayName": "Gorilla Cinema / Media Pad" },
-    { "fragment": "mediapad",              "exactMatch": false, "displayName": "Gorilla Cinema / Media Pad" },
-    { "fragment": "zlothy",                "exactMatch": false, "displayName": "Rec Room Rig Zlothy (Untrusted Creator)" },
-    { "fragment": "zloth",                 "exactMatch": false, "displayName": "Zloth Mods" },
-    { "fragment": "violet",                "exactMatch": false, "displayName": "Violet" },
-    { "fragment": "bananaos",              "exactMatch": true,  "displayName": "Banana OS (Cheat)" },
-    { "fragment": "vivid",                 "exactMatch": false, "displayName": "Vivid" },
-    { "fragment": "resurgence",            "exactMatch": false, "displayName": "Resurgence" },
-    { "fragment": "oblivion",              "exactMatch": false, "displayName": "Oblivion" },
-    { "fragment": "orbit",                 "exactMatch": false, "displayName": "Orbit" },
-    { "fragment": "øʀɓɩƭ",                 "exactMatch": false, "displayName": "Orbit" },
-    { "fragment": "juul",                  "exactMatch": true,  "displayName": "Juul" },
-    { "fragment": "atlas",                 "exactMatch": true,  "displayName": "Atlas" },
-    { "fragment": "kamecolor",             "exactMatch": false, "displayName": "Bark" },
-    { "fragment": "kamestate",             "exactMatch": false, "displayName": "Bark" },
-    { "fragment": "barkenabledmodules",    "exactMatch": false, "displayName": "Bark" },
-    { "fragment": "barkversion",           "exactMatch": false, "displayName": "Bark" },
-    { "fragment": "barkplayersize",        "exactMatch": false, "displayName": "Bark" },
-    { "fragment": "chqser",                "exactMatch": false, "displayName": "Chqser Cheat Menu" }, // ADDED
-    { "fragment": "explicit",              "exactMatch": false, "displayName": "Explicit Cheat Menu" }, // ADDED
-    { "fragment": "r3_menu",               "exactMatch": false, "displayName": "R3 Mod Menu (Cheat)" }, // ADDED
-    { "fragment": "deetags",               "exactMatch": false, "displayName": "Dee Tags" }, // ADDED
-    { "fragment": "nametags++",            "exactMatch": false, "displayName": "Nametags++" }, // ADDED
-    { "fragment": "L",                     "exactMatch": true, "displayName": "ThatUtilsPad" }, // ADDED
-    { "fragment": "ThatUtilsPad",          "exactMatch": false, "displayName": "ThatUtilsPad" }, // ADDED
-    { "fragment": "ThatUtilsPadFree",      "exactMatch": false, "displayName": "ThatUtilsPad" }, // ADDED
-    { "fragment": "thatutilspad",          "exactMatch": false, "displayName": "ThatUtilsPad" }, // ADDED
-    { "fragment": "ThatUtilsPadGui",       "exactMatch": false, "displayName": "ThatUtilsPad" }, // ADDED
-    { "fragment": "1",                     "exactMatch": true, "displayName": "Dark Mod menu" } // ADDED
+    { "fragment": "ylookininherewei", "exactMatch": false, "displayName": "Malachi Menu Reborn" },
+    { "fragment": "1ylookininherewei", "exactMatch": false, "displayName": "Malachi Menu Reborn" },
+    { "fragment": "hgrehngio", "exactMatch": false, "displayName": "Malachi Menu Reborn" },
+    { "fragment": "1y u lookin in here weirdo", "exactMatch": false, "displayName": "Malachi Menu Reborn" },
+    { "fragment": "y u lookin in here weirdo", "exactMatch": false, "displayName": "Malachi Menu Reborn" },
+    { "fragment": "hgrehngio889584739_hugb", "exactMatch": false, "displayName": "Malachi Menu Reborn" },
+    { "fragment": "dtasloi", "exactMatch": false, "displayName": "DTASLOI" },
+    { "fragment": "dtaoi", "exactMatch": true, "displayName": "DTASLOI" },
+    { "fragment": "genesis", "exactMatch": true, "displayName": "Genesis" },
+    { "fragment": "void", "exactMatch": true, "displayName": "Void" },
+    { "fragment": "colossal", "exactMatch": false, "displayName": "ColossalCheatMenu V2" },
+    { "fragment": "6p72ly3", "exactMatch": false, "displayName": "ColossalCheatMenu V2" },
+    { "fragment": "6xpyykmr", "exactMatch": false, "displayName": "ColossalCheatMenu V2" },
+    { "fragment": "monkephone", "exactMatch": false, "displayName": "MonkePhone" },
+    { "fragment": "monkesmartphone", "exactMatch": false, "displayName": "MonkePhone" },
+    { "fragment": "mp25", "exactMatch": true, "displayName": "MonkePhone" },
+    { "fragment": "gorillawatch", "exactMatch": false, "displayName": "Gorilla Info Watch" },
+    { "fragment": "infowatch", "exactMatch": false, "displayName": "Gorilla Info Watch" },
+    { "fragment": "gorillainfowatch", "exactMatch": false, "displayName": "Gorilla Info Watch" },
+    { "fragment": "gorillastats", "exactMatch": false, "displayName": "GorillaStats" },
+    { "fragment": "gorillacraft", "exactMatch": false, "displayName": "GorillaCraft" },
+    { "fragment": "gorillacinema", "exactMatch": false, "displayName": "Gorilla Cinema / Media Pad" },
+    { "fragment": "mediapad", "exactMatch": false, "displayName": "Gorilla Cinema / Media Pad" },
+    { "fragment": "zlothy", "exactMatch": false, "displayName": "Rec Room Rig Zlothy (Untrusted Creator)" },
+    { "fragment": "zloth", "exactMatch": false, "displayName": "Zloth Mods" },
+    { "fragment": "violet", "exactMatch": false, "displayName": "Violet" },
+    { "fragment": "bananaos", "exactMatch": true, "displayName": "Banana OS (Cheat)" },
+    { "fragment": "vivid", "exactMatch": false, "displayName": "Vivid" },
+    { "fragment": "resurgence", "exactMatch": false, "displayName": "Resurgence" },
+    { "fragment": "oblivion", "exactMatch": false, "displayName": "Oblivion" },
+    { "fragment": "orbit", "exactMatch": false, "displayName": "Orbit" },
+    { "fragment": "øʀɓɩƭ", "exactMatch": false, "displayName": "Orbit" },
+    { "fragment": "juul", "exactMatch": true, "displayName": "Juul" },
+    { "fragment": "atlas", "exactMatch": true, "displayName": "Atlas" },
+    { "fragment": "kamecolor", "exactMatch": false, "displayName": "Bark" },
+    { "fragment": "kamestate", "exactMatch": false, "displayName": "Bark" },
+    { "fragment": "barkenabledmodules", "exactMatch": false, "displayName": "Bark" },
+    { "fragment": "barkversion", "exactMatch": false, "displayName": "Bark" },
+    { "fragment": "barkplayersize", "exactMatch": false, "displayName": "Bark" },
+    { "fragment": "chqser", "exactMatch": false, "displayName": "Chqser Cheat Menu" },
+    { "fragment": "explicit", "exactMatch": false, "displayName": "Explicit Cheat Menu" },
+    { "fragment": "r3_menu", "exactMatch": false, "displayName": "R3 Mod Menu (Cheat)" },
+    { "fragment": "deetags", "exactMatch": false, "displayName": "Dee Tags" },
+    { "fragment": "nametags++", "exactMatch": false, "displayName": "Nametags++" },
+    { "fragment": "L", "exactMatch": true, "displayName": "ThatUtilsPad" },
+    { "fragment": "ThatUtilsPad", "exactMatch": false, "displayName": "ThatUtilsPad" },
+    { "fragment": "ThatUtilsPadFree", "exactMatch": false, "displayName": "ThatUtilsPad" },
+    { "fragment": "thatutilspad", "exactMatch": false, "displayName": "ThatUtilsPad" },
+    { "fragment": "ThatUtilsPadGui", "exactMatch": false, "displayName": "ThatUtilsPad" },
+    { "fragment": "1", "exactMatch": true, "displayName": "Dark Mod menu" }
   ],
   "specialKeys": {
     "sakuraa": [
@@ -509,13 +489,13 @@
       "creationdate", "created", "userid", "user", "id", "nickname", "name",
       "username", "quest", "meta", "oculus", "steam", "pc", "pcvr", "unknown"
     ],
-  "keyFragments": [
-    "photon", "actor", "room", "queue", "gamemode",
-    "firstlogin", "account", "login", "playerid", "session",
-    "device", "region", "hash", "auth", "voice",
-    "systemcollections", "systemstring", "systemobject", "generic",
-    "mothership"
-  ]
+    "keyFragments": [
+      "photon", "actor", "room", "queue", "gamemode",
+      "firstlogin", "account", "login", "playerid", "session",
+      "device", "region", "hash", "auth", "voice",
+      "systemcollections", "systemstring", "systemobject", "generic",
+      "mothership"
+    ]
   },
   "hiddenModListEntries": [
     "didtutorial",
