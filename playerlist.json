@@ -1,6 +1,11 @@
 {
   "specialPlayers": [
     {
+      "userId": "E89FF3B52CB1C1A9",
+      "label": "HARD TOXIC",
+      "color": "#FF1744"
+    },
+    {
       "userId": "BEFED36DEAECF4E4",
       "label": "COSMETIX",
       "color": "#FF1744"
