@@ -1,6 +1,11 @@
 {
   "specialPlayers": [
     {
+      "userId": "FC5836BAC326456A",
+      "label": "CHEATER | MOD MENU PAYANT MDR",
+      "color": "#FF1744"
+    },
+    {
       "userId": "E89FF3B52CB1C1A9",
       "label": "HARD TOXIC",
       "color": "#FF1744"
