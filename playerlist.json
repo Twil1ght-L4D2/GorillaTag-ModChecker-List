@@ -1,6 +1,11 @@
 {
   "specialPlayers": [
     {
+      "userId": "FAD1E3F0F7A64064",
+      "label": "Cheater Walk sim",
+      "color": "#FF1744"
+    },
+    {
       "userId": "642D5FE4D4AD8081",
       "label": "Fille Weird asf",
       "color": "#FF1744"
