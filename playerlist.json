@@ -1,6 +1,16 @@
 {
   "specialPlayers": [
     {
+      "userId": "2B52B2FC2A12EF6C",
+      "label": "Cheater Walk sim",
+      "color": "#FF1744"
+    },
+    {
+      "userId": "7410007D4D3F51AD",
+      "label": "Cheater Walk sim |Kick All",
+      "color": "#FF1744"
+    },
+    {
       "userId": "FAD1E3F0F7A64064",
       "label": "Cheater Walk sim",
       "color": "#FF1744"
