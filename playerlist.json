@@ -1,6 +1,16 @@
 {
   "specialPlayers": [
     {
+      "userId": "ADEA7D4ACB600115",
+      "label": "Cheater World Scale",
+      "color": "#FF1744"
+    },
+    {
+      "userId": "FD171E64349B0278",
+      "label": "Cheater Walk sim",
+      "color": "#FF1744"
+    },
+    {
       "userId": "2B52B2FC2A12EF6C",
       "label": "Cheater Walk sim",
       "color": "#FF1744"
