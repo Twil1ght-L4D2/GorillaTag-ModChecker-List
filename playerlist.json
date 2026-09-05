@@ -1,6 +1,21 @@
 {
   "specialPlayers": [
     {
+      "userId": "CCB94ECE2A635316",
+      "label": "CHEATER MOD MENU",
+      "color": "#FF1744"
+    },
+    {
+      "userId": "4C81F9D223E2C888",
+      "label": "TOXIC + MENACE DOX",
+      "color": "#FF1744"
+    },
+    {
+      "userId": "BAEEE79A461F2D2E",
+      "label": "TOXIC",
+      "color": "#FF1744"
+    },
+    {
       "userId": "84116DFAE53F7037",
       "label": "Cheater World Scale",
       "color": "#FF1744"
