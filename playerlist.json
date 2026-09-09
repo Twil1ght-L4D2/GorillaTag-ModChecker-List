@@ -1,6 +1,21 @@
 {
   "specialPlayers": [
     {
+      "userId": "AF973FD4684F535B",
+      "label": "CHEATER WALK SIM",
+      "color": "#FF1744"
+    },
+    {
+      "userId": "C9763582098E711C",
+      "label": "CHEATER WORLD SCALE",
+      "color": "#FF1744"
+    },
+    {
+      "userId": "442622CA67EB93A1",
+      "label": "CHEATER WALKSIM",
+      "color": "#FF1744"
+    },
+    {
       "userId": "C36D400E46DC25FC",
       "label": "CHEATER MOD MENU CONSOLE MDR",
       "color": "#FF1744"
