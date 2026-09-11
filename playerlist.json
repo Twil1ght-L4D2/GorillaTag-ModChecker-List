@@ -1,6 +1,31 @@
 {
   "specialPlayers": [
     {
+      "userId": "323B4B4283DCED0E",
+      "label": "CHEATER WALKSIM",
+      "color": "#FF1744"
+    },
+    {
+      "userId": "D73C90378391787F",
+      "label": "CHEATER WORLD SCALE",
+      "color": "#FF1744"
+    },
+    {
+      "userId": "494A9F7659890DFE",
+      "label": "RACIST",
+      "color": "#FF1744"
+    },
+    {
+      "userId": "494A9F7659890DFE",
+      "label": "RACIST",
+      "color": "#FF1744"
+    },
+    {
+      "userId": "6C9DF85684FB0321",
+      "label": "TOXIC + RACIST",
+      "color": "#FF1744"
+    },
+    {
       "userId": "AF973FD4684F535B",
       "label": "CHEATER WALK SIM",
       "color": "#FF1744"
@@ -582,7 +607,7 @@
     },
     {
       "userId": "927F364247FFFF82",
-      "label": "CHEATER MOD MENU",
+      "label": "CHEATER MOD MENU + SOUNDBOARD SPAM",
       "color": "#FF1744"
     },
     {
