@@ -1,6 +1,11 @@
 {
   "specialPlayers": [
     {
+      "userId": "A2E50C321B32B8FB",
+      "label": "CHEATER WALKSIM + HARD TOXIC",
+      "color": "#FF1744"
+    },
+    {
       "userId": "C5BB7C1D09A4539E",
       "label": "CHEATER WC + LOW HZ",
       "color": "#FF1744"
