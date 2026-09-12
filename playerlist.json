@@ -1,6 +1,16 @@
 {
   "specialPlayers": [
     {
+      "userId": "111114A2FB2DB4F0",
+      "label": "CHEATER MOD MENU",
+      "color": "#FF1744"
+    },
+    {
+      "userId": "AE1410914FDEADB",
+      "label": "CHEATER WALKSIM",
+      "color": "#FF1744"
+    },
+    {
       "userId": "A2E50C321B32B8FB",
       "label": "CHEATER WALKSIM + HARD TOXIC",
       "color": "#FF1744"
